@@ -9,7 +9,7 @@ The website consist of 7 pages total, including:
 * An explanation of the project.
 * Links to each visualizations page. A sidebar containing preview images of each plot, and clicking an image will take you to that visualization.
 
-## visualization pages
+## Visualization pages
 ### Four visualization pages, each with:
 
 * A title and heading of the visualizaton.
