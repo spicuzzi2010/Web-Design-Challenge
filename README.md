@@ -34,4 +34,4 @@ Each page has a navigation menu that:
 * Has two text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 
 ## GitHub pages
-This site is deployed to github pages at https://spicuzzi2010.github.io/Web-Design-Challenge/index.html
+This site is deployed to github pages at https://spicuzzi2010.github.io/Web-Design-Challenge/
